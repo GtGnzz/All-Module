@@ -2,6 +2,9 @@
 
 
 
+pkg install figlet
+
+pkg install lolcat
 
 git clone https://github.com/GtGnzz/All-Module
 
