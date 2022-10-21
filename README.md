@@ -1,10 +1,13 @@
 # Install
 
 
+pkg install mpv
 
 pkg install figlet
 
 pkg install lolcat
+
+pkg install git
 
 git clone https://github.com/GtGnzz/All-Module
 
