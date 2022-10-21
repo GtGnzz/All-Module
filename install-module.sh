@@ -167,63 +167,63 @@ echo "┗━━━━━━━━━━━━━━━━━━━━━━━�
 echo ""
 echo ""
 sleep 2
-pip install beautifulsoup4 -y
+pip install beautifulsoup4
 echo "BERHASIL MENGINSTALL 1 PACKAGE"|lolcat
-pip install bitly-api-py3 -y
+pip install bitly-api-py3
 echo "BERHASIL MENGINSTALL 2 PACKAGE"|lolcat
-pip install bs4 -y
+pip install bs4
 echo "BERHASIL MENGINSTALL 3 PACKAGE"|lolcat
-pip install certifi -y
+pip install certifi
 echo "BERHASIL MENGINSTALL 4 PACKAGE"|lolcat
-pip install charset-normalizer -y
+pip install charset-normalizer
 echo "BERHASIL MENGINSTALL 5 PACKAGE"|lolcat
-pip install colorama -y
+pip install colorama
 echo "BERHASIL MENGINSTALL 6 PACKAGE"|lolcat
-pip install keyboard -y
+pip install keyboard
 echo "BERHASIL MENGINSTALL 7 PACKAGE"|lolcat
-pip install month -y
+pip install month
 echo "BERHASIL MENGINSTALL 8 PACKAGE"|lolcat
-pip install lolcat -y
+pip install lolcat
 echo "BERHASIL MENGINSTALL 9 PACKAGE"|lolcat
-pip install idna -y
+pip install idna
 echo "BERHASIL MENGINSTALL 10 PACKAGE"|lolcat
-pip install node -y
+pip install node
 echo "BERHASIL MENGINSTALL 11 PACKAGE"|lolcat
-pip install odict -y
+pip install odict
 echo "BERHASIL MENGINSTALL 12 PACKAGE"|lolcat
-pip install pip -y
+pip install pip
 echo "BERHASIL MENGINSTALL 13 PACKAGE"|lolcat
-pip install plumber -y
+pip install plumber
 echo "BERHASIL MENGINSTALL 14 PACKAGE"|lolcat
-pip install pyshorteners -y
+pip install pyshorteners
 echo "BERHASIL MENGINSTALL 15 PACKAGE"|lolcat
-pip install pywifi -y
+pip install pywifi
 echo "BERHASIL MENGINSTALL 16 PACKAGE"|lolcat
-pip install requests -y
+pip install requests
 echo "BERHASIL MENGINSTALL 17 PACKAGE"|lolcat
-pip install setuptools -y
+pip install setuptools
 echo "BERHASIL MENGINSTALL 18 PACKAGE"|lolcat
-pip install soupsieve -y
+pip install soupsieve
 echo "BERHASIL MENGINSTALL 19 PACKAGE"|lolcat
-pip install termcolor -y
+pip install termcolor
 echo "BERHASIL MENGINSTALL 20 PACKAGE"|lolcat
-pip install urllib3 -y
+pip install urllib3
 echo "BERHASIL MENGINSTALL 21 PACKAGE"|lolcat
-pip install zope.component -y
+pip install zope.component
 echo "BERHASIL MENGINSTALL 22 PACKAGE"|lolcat
-pip install zope.deferredimport -y
+pip install zope.deferredimport
 echo "BERHASIL MENGINSTALL 23 PACKAGE"|lolcat
-pip install zope.deprecation -y
+pip install zope.deprecation
 echo "BERHASIL MENGINSTALL 24 PACKAGE"|lolcat
-pip install zope.event -y
+pip install zope.event
 echo "BERHASIL MENGINSTALL 25 PACKAGE"|lolcat
-pip install zope.hookable -y
+pip install zope.hookable
 echo "BERHASIL MENGINSTALL 26 PACKAGE"|lolcat
-pip install zope.interface -y
+pip install zope.interface
 echo "BERHASIL MENGINSTALL 27 PACKAGE"|lolcat
-pip install zope.lifecycleevent -y
+pip install zope.lifecycleevent
 echo "BERHASIL MENGINSTALL 28 PACKAGE"|lolcat
-pip install zope.proxy -y
+pip install zope.proxy
 echo "BERHASIL MENGINSTALL 29 PACKAGE"|lolcat
 echo ""
 sleep 2
