@@ -1,11 +1,7 @@
 # Install
 
 
-pkg install mpv
-
-pkg install figlet
-
-pkg install lolcat
+pkg install bash
 
 pkg install git
 
@@ -13,6 +9,6 @@ git clone https://github.com/GtGnzz/All-Module
 
 cd All-Module
 
-bash install-module.sh
+bash done.sh
 
 # Jangan Lupa Subscribe Channel GtGnzz12
