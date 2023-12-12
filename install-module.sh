@@ -5,36 +5,23 @@ clear
 figlet -f ASCII-Shadow "\    Module"| lolcat
 echo ""
 echo ""
-printf "\rOQMKQNWIWBWWJJWNWWNWJ QKQO0QKQKWWNWJWJWKWKWJWJWNWNWNWNWNWJWNNWNWQOWNEHIWNWNW98W7WNWNWNWJWKWWNWNWNWNWNWNW"
+printf "\rWAITING. . ."
 sleep 0.5
-printf "\JWJWJWNWKWNW W  WWNWJWKWKWKWJWJWJWBWBWNWJWJWJWWJWrAKNEJENWKWJWNWJEBEBEJEJEBEJEJENWNWOWNWNWIJW"
+printf "\rOKEH GAS..."
 sleep 0.5
-printf "\rKWMWWKWNWNWJWUWJWNWNWNWJWUWHWBWBWB71618MNWJJWJWBWBWWBWBWNWNWJWJWHWJWJWJWJWJWJWJWJWWJWJWJWJWJ"
-sleep 0.5
-printf "\rINWWOQKQMQKALALAMWNWJWJWNWNWJWHWBNBSHSBSGQYWJWNWNWKEJENW91928819192JWJWWJWJWJWJWJWJWJWJWJWJ"
-sleep 0.5
-printf "\rIWNQOQPQPQPQONBDDGDGDGDGDLAKMNSJHSLOKMKSMMNJWJWJWWJJWJWWJWIQPQP82721901KWJWWJWJWJJWWJWJWJWJWJWJWJ"
-printf "\rOQMKQNWIWBWWJJWNWWNWJ QKQO0QKQKWWNWJWJWKWKWJWJWNWNWNWNWNWJWNNWNWQOWNEHIWNWNW9"
-sleep 0.5
-printf "\JWJWJWNWKWNW W  WWNWJWKWKWKWJWJWJWBWBWNWJWJWJWWJWrAKNEJENWKWJWNWJEBEBEJEJEBEJE"
-sleep 0.5
-printf "\rKWMWWKWNWNWJWUWJWNWNWNWJWUWHWBWBWB71618MNWJJWJWBWBWWBWBWNWNWJWJWHWJWJWJWJWJWJ"
-sleep 0.5
-printf "\rINWWOQKQMQKALALAMWNWJWJWNWNWJWHWBNBSHSBSGQYWJWNWNWKEJENW91928819192JWJWWJWJWJ"
-sleep 0.5
-printf "\rIWNQOQPQPQPQONBDDGDGDGDGDLAKMNSJHSLOKMKSMMNJWJWJWWJJWJWWJWIQPQP82721901KWJWWJ"
+printf "\rNYALAIN MUSIC DULU"
 mpv ~/All-Module/bot.mp3
 clear
-echo "Dont Forget Subscribe My Youtube Channel"
+echo "JANGAN LUPA SUBSCRIBE CHANNEL GW DULU YA BRO"
 sleep 2
-termux-open-url https://youtube.com/channel/UCc_uTj4ZiYf9-XJWaZzlN_g
+termux-open-url https://youtube.com/@gtgnzz
 clear
 sleep 3
 date
 echo "      █▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█"|lolcat
 echo "      █ Project : All Module                                      █"|lolcat
 echo "      █ Author  : GtGnzz                                          █"|lolcat
-echo "      █ Version : 0.9 (Latest)                                    █"|lolcat
+echo "      █ Version : 1.0 (Latest)                                    █"|lolcat
 echo "      █ Github  : gtgnzz <github.com/GtGnzz/>                     █"|lolcat
 echo "      █▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█"|lolcat
 echo "                          𝕀𝕟𝕤𝕥𝕒𝕝𝕝 𝕄𝕠𝕕𝕦𝕝𝕖"|lolcat
