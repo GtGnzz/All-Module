@@ -2,5 +2,6 @@
 pkg install figlet
 pip install lolcat
 pkg install mpv
-mv install-module.sh $HOME && cd $HOME && bash install-module.sh
+cd gas
+bash install-module.sh
 
